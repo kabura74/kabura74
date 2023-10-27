@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on the role of semantic primes in knowledge acquisition
+- 🌱 I’m currently learning how to alter simulated worlds to contain unexpected happenings
+- 👯 I’m looking to collaborate on multidisciplinary and multiligual experiments related to machine ethics
+- 🤔 I’m looking for help with extending existing world simulators
+- 📫 How to reach me: https://kabura.info/contact
+- ⚡ Fun fact: my whole Polish family works or studies at Hokkaido University :)
