@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on multidisciplinary and multiligual experiments related to machine ethics
 - 🤔 I’m looking for help with extending existing world simulators
 - 📫 How to reach me: http://kabura.info/contact
-- ⚡ Fun fact: my whole Polish family works or studies at Hokkaido University :)
